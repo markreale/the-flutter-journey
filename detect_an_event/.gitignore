@@ -6,6 +6,5 @@
 .pub/
 build/
 ios/.generated/
-packages
 pubspec.lock
 *.log
