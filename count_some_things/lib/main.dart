@@ -14,6 +14,15 @@ class counterThing extends StatefulWidget{
 class counterState extends State<counterThing>{
   int counter = 0;
 
+  static const int INCREASE = 1;
+  static const int DECREASE = -1;
+
+  void adjustCounter(int operation){
+    setState((){
+      counter += operation;
+    });
+  }
+
   Widget build(BuildContext context){
     return new Column(
           children: <Widget>[
@@ -25,18 +34,14 @@ class counterState extends State<counterThing>{
                       'Increase the count'
                   ),
                   onTap: (){
-                    setState((){
-                      counter += 1;
-                    });
+                    adjustCounter(INCREASE);
                   }),
               new GestureDetector(
                   child: new Text(
                       'Decrease the count'
                   ),
                   onTap: (){
-                    setState((){
-                      counter -= 1;
-                    });
+                    adjustCounter(DECREASE);
                   }),
         ]
     );
