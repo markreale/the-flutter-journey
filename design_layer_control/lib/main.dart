@@ -20,7 +20,7 @@ void main(){
                       // https://docs.flutter.io/flutter/painting/TextStyle-class.html
                       child: new Text(
                         'This is an important message.',
-                        style: TextStyle(
+                        style: new TextStyle(
                           color: Colors.green,
                           fontSize: 20.0,
                           decoration: TextDecoration.none,
@@ -32,7 +32,7 @@ void main(){
                     padding: EdgeInsets.all(20.0),
                     child: new Text(
                       'This is to emphasize how important the last message was.',
-                      style: TextStyle(
+                      style: new TextStyle(
                         color: Colors.green,
                         fontSize: 20.0,
                         decoration: TextDecoration.none,
