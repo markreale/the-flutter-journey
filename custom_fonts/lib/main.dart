@@ -1,5 +1,9 @@
 import 'package:flutter/material.dart';
 
+// These fonts were retrieved from the Google Fonts project.
+// The font is called Cormorant
+// https://fonts.google.com/specimen/Cormorant?selection.family=Cormorant
+
 void main(){
   runApp(MaterialApp(
       home: new SingleChildScrollView(
