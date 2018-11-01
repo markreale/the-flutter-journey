@@ -10,39 +10,56 @@ Setting up the Development Environment.
 
 ### Content Display
 
-Displaying a piece of content.
+#### Displaying a piece of content.
 
-Widgets.
+https://github.com/markreale/the-flutter-journey/tree/develop/a_message
 
-### Distribution
+#### Displaying multiple pieces of content.
 
-Making content available through distribution channels.
+https://github.com/markreale/the-flutter-journey/tree/develop/multiple_things
 
-### Multiple Pieces of Content
+#### Display an Image
 
-Having multiple content blocks.
-
-### Non-text Assets
-
-Working with Images
+https://github.com/markreale/the-flutter-journey/tree/develop/display_an_image
 
 ### Controlling Display
 
 Applying style and design to content.
 
+#### Controlling Presentation (Implementing Design)
+
+https://github.com/markreale/the-flutter-journey/tree/develop/design_layer_control
+
+#### Custom Fonts
+
+https://github.com/markreale/the-flutter-journey/tree/develop/custom_fonts
+
+
+### Non-text Assets
+
+Working with Images
+
 ### Conditional Content
 
-States.
+Working with States.
 
-Stateless Widgets vs. Stateful Widgets.
+https://github.com/markreale/the-flutter-journey/tree/develop/count_some_things
 
 ### Modularity
 
 Breaking Content into manageable chunks.
 
+### Events
+
+Detect an event.
+
+https://github.com/markreale/the-flutter-journey/tree/develop/detect_an_event
+
 ### Navigation
 
 Navigating between multiple screens.
+
+https://github.com/markreale/the-flutter-journey/tree/develop/navigation
 
 ### Data
 
@@ -63,3 +80,7 @@ Ensuring that your content is accessible to as many people using as many devices
 ### Animation
 
 Augmenting the User Experience.
+
+### Distribution
+
+Making content available through distribution channels.
