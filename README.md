@@ -18,7 +18,9 @@ https://github.com/markreale/the-flutter-journey/tree/develop/a_message
 
 https://github.com/markreale/the-flutter-journey/tree/develop/multiple_things
 
-#### Display an Image
+### Non-text Assets
+
+Working with Images
 
 https://github.com/markreale/the-flutter-journey/tree/develop/display_an_image
 
@@ -34,10 +36,9 @@ https://github.com/markreale/the-flutter-journey/tree/develop/design_layer_contr
 
 https://github.com/markreale/the-flutter-journey/tree/develop/custom_fonts
 
+#### Material
 
-### Non-text Assets
-
-Working with Images
+https://github.com/markreale/the-flutter-journey/tree/develop/material
 
 ### Conditional Content
 
